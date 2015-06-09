@@ -1,0 +1,107 @@
+.top{
+	background:url(../img/hero-photo.png);
+	height:800px;
+	width:100%;
+	margin-top:-80px;
+}
+.nimbus{
+	margin:20px 0px 20px 60px;
+}
+.text{
+	margin-top:34px;
+	margin-bottom:34px;
+	size:15px;
+	color:#FFFFFF;
+}
+ .mynavbar {
+	background-color:rgba(0,0,0,0.8);
+	min-height:80px;
+}
+
+.toptext{
+	font-weight:800;
+	font-size:60px;
+	color:#FFFFFF;
+	text-align:center;
+}
+.logo{
+	text-align:center;
+	margin-top:165px;
+}
+.subtext{
+	font-size:36px;
+	color:#FFFFFF;
+	font-weight:200;
+	margin-bottom:50px;
+}
+.btn{
+	padding-color:#FFFFFF;
+	font-size:18px;
+	font-weight:800;
+	color:#FF9C00;
+	height:74px;
+	width:232px;
+}
+.aboutText{
+	font-size:36px;
+	color:#1A1A1A;
+	text-align:center;
+	margin-top:108px;
+	font-weight:800;
+
+}
+.aboutSub{
+	font-size:22px;
+	color:#959595;
+	text-align:center;
+	margin-top:30px;
+	font-weight:200;
+	margin-bottom:50px;
+}
+.icon1{
+	text-align:center;
+
+}
+.text1{
+	font-size:18px;
+	font-color:#1A1A1A;
+	font-weight:800;
+	margin-right:80px;
+	text-align:center;
+}
+.text2{
+	font-size:18px;
+	color:#959595;
+	font-weight:100;
+	margin-top:18px;
+	text-align:center;
+
+}
+.btn{
+	color:#FF9C00;
+	background-color:#FFFFFF;
+	font-color:#FF9C00
+	font-size:18px;
+	font-weight:800;
+	text-align:center;	
+}
+.bottom2{
+	background:url(../img/testimonial-photo1.png);
+	height:720px;
+	width:100%;
+	margin-top:108px;
+	font-size:60px;
+	color:#FFFFFF;
+	line-height:72px;
+	font-weight:100;
+	text-align:center;
+	padding-top:166px;
+}
+.bottomtext{
+	font-size:24px;
+	color:#FFFFFF;
+	line-height:28.8px;
+	font-weight:200;
+	padding-top:58px;
+}
+}
